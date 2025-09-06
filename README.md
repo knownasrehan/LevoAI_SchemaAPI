@@ -22,7 +22,7 @@ A robust Spring Boot microservice for uploading, versioning, and retrieving Open
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd schema-api
+   cd LevoAI_SchemaAPI
    ```
 
 2. **Build the project**
